@@ -1,0 +1,10 @@
+c:\users\ruiz\documents\visual studio 2012\Projects\SqlConnectSample\SqlConnectSample\bin\Debug\SqlConnectSample.exe.config
+c:\users\ruiz\documents\visual studio 2012\Projects\SqlConnectSample\SqlConnectSample\bin\Debug\SqlConnectSample.exe
+c:\users\ruiz\documents\visual studio 2012\Projects\SqlConnectSample\SqlConnectSample\bin\Debug\SqlConnectSample.pdb
+c:\users\ruiz\documents\visual studio 2012\Projects\SqlConnectSample\SqlConnectSample\obj\Debug\SqlConnectSample.csprojResolveAssemblyReference.cache
+c:\users\ruiz\documents\visual studio 2012\Projects\SqlConnectSample\SqlConnectSample\obj\Debug\SqlConnectSample.frmConnect.resources
+c:\users\ruiz\documents\visual studio 2012\Projects\SqlConnectSample\SqlConnectSample\obj\Debug\SqlConnectSample.frmLogin.resources
+c:\users\ruiz\documents\visual studio 2012\Projects\SqlConnectSample\SqlConnectSample\obj\Debug\SqlConnectSample.Properties.Resources.resources
+c:\users\ruiz\documents\visual studio 2012\Projects\SqlConnectSample\SqlConnectSample\obj\Debug\SqlConnectSample.csproj.GenerateResource.Cache
+c:\users\ruiz\documents\visual studio 2012\Projects\SqlConnectSample\SqlConnectSample\obj\Debug\SqlConnectSample.exe
+c:\users\ruiz\documents\visual studio 2012\Projects\SqlConnectSample\SqlConnectSample\obj\Debug\SqlConnectSample.pdb
